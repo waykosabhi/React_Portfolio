@@ -6,9 +6,9 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href=""
+          href="https://react-portfolio-a6pcki9a5-waykosabhi.vercel.app/"
           target="_blank"
-          rel="noreferrer noopener"
+          rel=""
         >
           Abhishek Waykos
         </a>{" "}

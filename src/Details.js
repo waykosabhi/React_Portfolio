@@ -25,6 +25,7 @@ import projectImage2 from "./assets/projects/Project3.png";
 import projectImage3 from "./assets/projects/Project1.png";
 import projectImage4 from "./assets/projects/Project5.png";
 import projectImage5 from "./assets/projects/Project 4.png";
+import projectImage6 from "./assets/projects/Project6.png";
 
 // Logos
 export const logos = {
@@ -130,6 +131,15 @@ export const projectDetails = [
     techstack: "HTML/CSS, JavaScript, react, redux, node.js, express",
     previewLink: "https://lab-report-management.vercel.app/",
     githubLink: "https://github.com/waykosabhi/Lab_Report_Management-.git",
+  },
+  {
+    title: "PortFolio",
+    image: projectImage6,
+    description: `This is sample project for PortFolio  .`,
+    techstack:
+      "HTML/CSS, JavaScript, react, redux, node.js, express,Tailwind CSS",
+    previewLink: "https://react-portfolio-a6pcki9a5-waykosabhi.vercel.app/",
+    githubLink: "https://github.com/waykosabhi/react_portfolio.git",
   },
 ];
 
