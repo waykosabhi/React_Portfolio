@@ -109,7 +109,7 @@ export const projectDetails = [
   },
   {
     title: "Water Jar Management",
-    image: projectImage4,
+    image: projectImage3,
     description: `This is sample project for Water Jar MAnagement system  Site.`,
     techstack: "HTML/CSS, JavaScript, react, redux, node.js",
     previewLink: "https://waykosabhi.github.io/Login_Registration_Page/",
